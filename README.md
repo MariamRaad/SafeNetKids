@@ -1,5 +1,5 @@
 # SafeNetKids
-Serious Game für Grundschüler<(br>
+Serious Game für Grundschüler</br>
 Dieses Projekt startete im Sommersemester 2018 als Bachelorarbeit und wurde dann im Wintersemester 2019 als Projektarbeit im Master-Studium fortgeführt. Bei der Entwicklung waren verschiedene Studierende beteiligt.</br>
 _____________________________________
 <b>Tech:</b></br>
