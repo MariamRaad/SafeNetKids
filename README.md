@@ -6,7 +6,7 @@ _____________________________________
 Corona Labs/Solar2D, Lua, Adobe Illustrator/Photoshop
 _____________________________________
 <b>Meine Aufgaben:</b></br>
-- Spiele Programmierung (Frontend)
+- Entwicklung (Front-End, Game Programming)
 - Game Design
 - Erstellung von Assets: Illustrationen, Animationen
 _____________________________________
