@@ -21,3 +21,7 @@ _____________________________________
 - Je nach benötigter Zeit und Richtigkeit der Antwort oder Zuordnung erhält der Spieler Punkte. Die Menüpunkte befinden sich auf einem vordefinierten, sequenziell zu spielenden Pfad. Der Spieler muss in vorherigen Menüpunkten eine gewisse Anzahl an Punkten sammeln um folgende Menüpunkte freizuschalten. Somit wird sichergestellt, dass der Spieler ein bestimmtes Maß an Wissen erreicht.
 
 <img src="SafeNetKids_compressed.gif" width="480" height="270"/>
+
+<b>Poster</b></br>
+<img src="SafeNetKidsPoster_App.jpg" width="551" height="400"/>
+<img src="SafeNetKidsPoster_Text.jpg" width="389" height="551"/>
