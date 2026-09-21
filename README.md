@@ -1,29 +1,31 @@
 # SafeNetKids
-Serious Game für Grundschüler</br>
-Dieses Projekt startete im Sommersemester 2018 als Bachelorarbeit und wurde dann im Wintersemester 2019 als Projektarbeit im Master-Studium fortgeführt. Bei der Entwicklung waren verschiedene Studierende beteiligt.</br>
-_____________________________________
-<b>Tech:</b></br>
-Corona Labs/Solar2D, Lua, Adobe Illustrator/Photoshop
-_____________________________________
-<b>Meine Aufgaben:</b></br>
-- Entwicklung (Front-End, Game Programming)
-- Game Design
-- Erstellung von Assets: Illustrationen, Animationen
-_____________________________________
-<b>Motivation:</b></br>
-Das 2D-Serious Game soll Grundschulkinder einen verantwortungsvollen Umgang mit dem Internet beibringen und nahelegen.
-_____________________________________
-<b>Game Design:</b></br>
-- Ziel der 2D-Anwendung ist es die Medienkompetenz der Spieler zu verbessern, indem ihnen die Gefahren des Internets spielerisch näher gebracht werden. Darunter fallen Themengebiete wie zum Beispiel Schadsoftware, E-Mails und soziale Netzwerke.
 
-- Das Hauptmenü besteht aus verschiedenen Häusern eines Dorfes. Jedes Haus behandelt ein Themengebiet und ist zu diesem passend gestaltet. Die Post steht beispielsweise für das Thema E-Mail. Ein Avatar begleitet den Spieler durch das Spiel und erklärt zu Anfang jedes Menüpunktes, worum es geht und was der Spieler hierbei zu beachten hat. Anschließend muss das erlernte Wissen in kleinen Spielen oder zu beantwortenden Fragen spielerisch angewandt werden. 
+## Summary
+SafeNetKids is a 2D serious game designed to teach primary school children about responsible and safe internet use.
 
-- Je nach benötigter Zeit und Richtigkeit der Antwort oder Zuordnung erhält der Spieler Punkte. Die Menüpunkte befinden sich auf einem vordefinierten, sequenziell zu spielenden Pfad. Der Spieler muss in vorherigen Menüpunkten eine gewisse Anzahl an Punkten sammeln um folgende Menüpunkte freizuschalten. Somit wird sichergestellt, dass der Spieler ein bestimmtes Maß an Wissen erreicht.
+The project was initially developed as part of my Bachelor's thesis (in the summer semester of 2018) and was further continued as a collaboratively project by several students during my Master's degree (in the winter semester of 2019).
 
+## 🛠 Tech Stack
+Corona Labs/Solar2D, Lua, Adobe Illustrator & Photoshop
+
+### My Tasks
+- Game design
+- Front-end and game programming
+- Creation of assets including illustrations and animations
+
+### 🎮 Game Design
+
+The goal of the game is to improve children's media literacy by introducing them to potential dangers of the internet in a playful way. Topics include emails, social networks and malware.
+
+The main menu is designed as a small village, with each building representing a different topic. For example, the post office represents the topic of email. A cute mouse avatar guides the player through the game and introduces each topic before the player applies the newly learned knowledge in small games and quizzes.
+
+Players earn points based on their response accuracy and completion time. The topics follow a predefined sequence, with new areas being unlocked after achieving a certain number of points in previous areas. This progression ensures that players acquire a basic understanding of each topic before moving on.
+
+## 📸 Showcase
 <img src="SafeNetKids_compressed.gif" width="480" height="270"/>
 
-Mehr Videos gibt es hier: https://drive.google.com/drive/folders/1_bnacW6YqwMBgzHCyXFy-EMT6nEHbQPH?usp=sharing
+More videos can be found here: https://drive.google.com/drive/folders/1_bnacW6YqwMBgzHCyXFy-EMT6nEHbQPH?usp=sharing
 
 <b>Poster</b></br>
-<img src="SafeNetKidsPoster_App.png" width="551" height="400"/>
+<img src="SafeNetKidsPoster_App.png" width="551" height="400"/>   
 <img src="SafeNetKidsPoster_Text.png" width="389" height="551"/>
