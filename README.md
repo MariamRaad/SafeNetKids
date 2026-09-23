@@ -3,7 +3,8 @@
 SafeNetKids is a 2D serious game designed to teach primary school children about responsible and safe internet use.
 
 ## 📸 Showcase
-<img src="SafeNetKids_compressed.gif" width="480" height="270"/>
+<video src="https://github.com/user-attachments/assets/2be0f64d-e06f-4cc2-a8a7-602cfb35b786.mp4"></video>
+<!-- <img src="SafeNetKids_compressed.gif" width="480" height="270"/> -->
 
 More videos can be found here: https://drive.google.com/drive/folders/1_bnacW6YqwMBgzHCyXFy-EMT6nEHbQPH?usp=sharing
 
