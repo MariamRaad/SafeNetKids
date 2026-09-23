@@ -26,6 +26,6 @@ Players earn points based on their response accuracy and completion time. The to
 
 More videos can be found here: https://drive.google.com/drive/folders/1_bnacW6YqwMBgzHCyXFy-EMT6nEHbQPH?usp=sharing
 
-<b>Poster</b></br>
+<b>Posters</b></br>
 <img src="SafeNetKidsPoster_App.png" width="551" height="400"/>   
 <img src="SafeNetKidsPoster_Text.png" width="389" height="551"/>
