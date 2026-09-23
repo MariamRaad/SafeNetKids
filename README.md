@@ -8,7 +8,7 @@ The project was initially developed as part of my Bachelor's thesis (in the summ
 ## 🛠 Tech Stack
 Corona Labs/Solar2D, Lua, Adobe Illustrator & Photoshop
 
-### My Tasks
+## My Tasks
 - Game design
 - Front-end and game programming
 - Creation of assets including illustrations and animations
