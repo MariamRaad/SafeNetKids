@@ -4,6 +4,7 @@ SafeNetKids is a 2D serious game designed to teach primary school children about
 
 ## 📸 Showcase
 <video src="https://github.com/user-attachments/assets/2be0f64d-e06f-4cc2-a8a7-602cfb35b786.mp4"></video>
+The music in the video is from: Bensound.com/royalty-free-music, Artist: Benjamin Tissot, Title: Little Idea, License code: AQMN5MV0XGUPGMT1, Link: https://www.bensound.com/royalty-free-music/track/little-idea-positive-music-for-youtube
 <!-- <img src="SafeNetKids_compressed.gif" width="480" height="270"/> -->
 
 More videos can be found here: https://drive.google.com/drive/folders/1_bnacW6YqwMBgzHCyXFy-EMT6nEHbQPH?usp=sharing
