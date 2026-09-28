@@ -20,6 +20,7 @@ Corona Labs/Solar2D, Lua, Adobe Illustrator & Photoshop
 ## My Tasks
 - Game design
 - Front-end and game programming
+- Implementation of the touch-based interactions because app was developed to run on tablet devices
 - Creation of some assets including illustrations and animations
 
 ### 🎮 Game Design
