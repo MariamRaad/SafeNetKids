@@ -7,10 +7,10 @@ SafeNetKids is a 2D serious game designed to teach primary school children about
 The music in the video is from: Bensound.com/royalty-free-music, Artist: Benjamin Tissot, Title: Little Idea, License code: AQMN5MV0XGUPGMT1, Link: https://www.bensound.com/royalty-free-music/track/little-idea-positive-music-for-youtube
 <!-- <img src="SafeNetKids_compressed.gif" width="480" height="270"/> -->
 
-More videos can be found here: https://drive.google.com/drive/folders/1_bnacW6YqwMBgzHCyXFy-EMT6nEHbQPH?usp=sharing
+<!-- More videos can be found here: https://drive.google.com/drive/folders/1_bnacW6YqwMBgzHCyXFy-EMT6nEHbQPH?usp=sharing -->
 
 ## Summary
-The goal of the game is to improve children's media literacy by introducing them to potential dangers of the internet in a playful way. Topics include emails, social networks and malware.
+The goal of the game is to improve children's media literacy by introducing them to potential dangers of the internet in a playful way. Topics include e.g. emails, passwords, social networks and malware.
 
 The project was initially developed as part of my Bachelor's thesis in the summer semester of 2018, where I was responsible for the development and technical implementation, while another student was responsible for the visual design. It was later continued as a collaborative project with several other students during my Master's degree in the winter semester of 2019.
 
@@ -27,6 +27,19 @@ The main menu is designed as a small village, with each building representing a 
 
 Players earn points based on their response accuracy and completion time. The topics follow a predefined sequence, with new areas being unlocked after achieving a certain number of points in previous areas. This progression ensures that players acquire a basic understanding of each topic before moving on.
 
-## Posters
-<img src="SafeNetKidsPoster_App.png" width="551" height="400"/>   
+## Screenshots
+Here are some more impressions of the content of the app:
+
+<b>Information about secure passwords and its quiz</b>  
+<img src="Screenshots/Passwörter_Beschreibung.png" width="440" height="280"/> 
+<img src="Screenshots/Passwörter_Quiz.png" width="440" height="280"/>  
+<b>Quiz about viruses</b>  
+<img src="Screenshots/Viren_Quiz.png" width="440" height="280"/>  
+<b>Quiz about websites</b>  
+<img src="Screenshots/Webseiten_Quiz.png" width="440" height="280"/>  
+<b>Information about ads</b>  
+<img src="Screenshots/Werbung_Beschreibung.png" width="440" height="280"/>  
+
+### Posters
+<img src="SafeNetKidsPoster_App.png" width="551" height="400"/>  
 <img src="SafeNetKidsPoster_Text.png" width="389" height="551"/>
